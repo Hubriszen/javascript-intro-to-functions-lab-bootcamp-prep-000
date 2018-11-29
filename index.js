@@ -6,8 +6,8 @@ lowercase,toLowerCase()
 ===lowercase// true
 var mixedCase='Hi there!"
 uppercase.toUpperCase()===uppercase//true
-var lowercase="hello
-lowercase.toLowerCase()===lowercase//true
+var lowercase="hello"
+lowecase.toLowerCase()===lowercase//true
 mixedCase.toLowerCase()===mixedCase
 mixedCase.toU()===mixedCase
 
